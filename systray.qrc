@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/refresh-icon.png</file>
+    <file>images/clock-icon.png</file>
+    <file>images/cuote-icon.png</file>
+    <file>images/proxy-icon.png</file>
+    <file>images/port-icon.png</file>
+    <file>images/domain-icon.png</file>
+    <file>images/passw-icon.png</file>
+    <file>images/edit-copy.png</file>
+    <file>images/user.png</file>
+    <file>images/gtk-no.png</file>
+    <file>images/list-remove.png</file>
+    <file>images/view-restore.png</file>
+    <file>images/window-close.png</file>
+    <file>images/view-fullscreen.png</file>
+    <file>images/options.png</file>
+    <file>images/disconnect.png</file>
+    <file>images/connect.png</file>
+    <file>images/logo-off.svg</file>
+    <file>images/logo-on.svg</file>
+  </qresource>
+</RCC>
